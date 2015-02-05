@@ -16,7 +16,7 @@ Git's concept "a stream of snapshots". It also only need local files and resourc
 3 main states of Git
 	Committed
 	Modified
-	Staged
+	Staged 
 
 3 main sections of a Git project
 	Git directory - stores the metadata and object database 
